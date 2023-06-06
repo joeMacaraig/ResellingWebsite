@@ -19,15 +19,15 @@ export const About = () => {
             </p>
             <div className="w-[300px] space-y-2">
               <p className="w-full">call: +1-234-456-7890 </p>
-              <p className="w-full">email: joezcoffee@emample.com</p>
+              <p className="w-full">email: 41sneakers@emample.com</p>
               <div>
-                <a href="https://www.grailed.com/90041Snkr">
+                <a className="w-full" href="https://www.grailed.com/90041Snkr">
                   <img
                     className="h-[50px] w-[50px] rounded-full bg-white mr-3"
                     src="https://user-images.githubusercontent.com/56804459/67166569-6154bd00-f399-11e9-96c0-b20c51b61062.png"
                     alt="grailed-icon"
                   />
-                </a>
+                  </a>
               </div>
               <div className="">
                 <a
